@@ -1,28 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30 pm",
-      "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 2:30 pm",
-      "reminder": true
-    },
-    {
-      "text": "Take test",
-      "day": "tomorrow",
+      "text": "Vet Visit",
+      "day": "March 21st, 2021",
       "reminder": true,
-      "id": 3
+      "id": 1
     },
     {
-      "text": "New",
-      "day": "New",
+      "text": "Gym",
+      "day": "Tomorrow at 9 am",
       "reminder": true,
-      "id": 4
+      "id": 2
     }
   ]
 }
